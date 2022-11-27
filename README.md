@@ -13,4 +13,5 @@ Game providing maximum accuracy is need for speed rivals.
 ## issues
 1. Although bot seems to perform better than the first model, frequent crashes.
 2. Direction confusion from other icons with similar route colour.
+3. Best works with a slow vehicle, eg SRT challenger stock.
 
